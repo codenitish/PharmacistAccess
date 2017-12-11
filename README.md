@@ -25,7 +25,7 @@ json-server --watch db.json --port 3004
 You can use any port number instead of 3004.
 
 ```
-Open http://localhost:3000
+Open http://localhost:3004
 ```
 
 ### To Login you can use email and password from users array in db.json.  
